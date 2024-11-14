@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="EcuacionCuadratica">
+    <output-path>$PROJECT_DIR$/out/artifacts/EcuacionCuadratica</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="EcuacionCuadratica" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="EcuacionCuadratica/web/Web" />
+    </root>
+  </artifact>
+</component>
